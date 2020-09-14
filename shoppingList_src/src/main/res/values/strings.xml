@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="item_options">Item Options:</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="apples">Apples</string>
+    <string name="bread">Bread</string>
+    <string name="eggs">Eggs</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="flour">Flour</string>
+    <string name="water">Water</string>
+    <string name="shovel">Shovel</string>
+    <string name="toast_message">Your List Is Full!</string>
+    <string name="text_heading">Your List:</string>
+    <string name="empty_string"></string>
+</resources>
